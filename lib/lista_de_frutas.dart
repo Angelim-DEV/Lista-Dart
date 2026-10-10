@@ -9,5 +9,5 @@ void main(){
 
   print(frutas[4]);
 
-  print(frutas.length)
+  print(frutas.length);
 }
