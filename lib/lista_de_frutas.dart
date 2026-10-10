@@ -7,7 +7,7 @@ void main(){
 
   print(frutas[0]);
 
-  print(frutas[4]);
+  print(frutas[frutas.length - 1]);
 
   print(frutas.length);
 }
